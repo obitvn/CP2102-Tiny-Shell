@@ -6,7 +6,7 @@
  - Có khả năng tự ngắt khi quá dòng để bảo vệ mạch/ bảo vệ cổng usb
  - Vẫn có led tx, rx đầy đủ
  
-Đáp ứng các nhu cầu trên, Tiny Shell ra đời với kích thước chỉ nhỉnh hơn chiếc thẻ SD Card một chút
+Đáp ứng các nhu cầu trên, Tiny Shell ra đời với kích thước chỉ nhỉnh hơn chiếc thẻ SD Card một chút (19.3*15.8mm)
  Ảnh mặt trước ![pic/20220712_110446.jpg](https://github.com/obitvn/CP2102-Tiny-Shell/blob/main/pic/20220712_110446.jpg)
  Ảnh mặt sau ![pic/20220712_110527.jpg](https://github.com/obitvn/CP2102-Tiny-Shell/blob/main/pic/20220712_110527.jpg)
  
